@@ -1,0 +1,4 @@
+.background-predios{
+    background: url("../images/fundo.jpg") repeat-x center bottom;
+    background-size: contain;
+}
